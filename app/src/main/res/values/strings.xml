@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">exploreHudd</string>
     <string name="google_maps_key">AIzaSyBrJX_ahqV0X1DDklazGXk5Qh2s4xWx-GQ</string>
-    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps">exploreHudd</string>
     <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_info_screen">exploreHudd - Information</string>
 </resources>
